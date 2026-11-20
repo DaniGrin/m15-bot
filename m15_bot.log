@@ -6,3 +6,8 @@
 [2026-11-20 09:49:12]   [big_3leg] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 0 open | 0 closed, WR -
 [2026-11-20 09:49:12]   [all_k2] initialised fresh at $10000 - trading only NEW bars from now
 [2026-11-20 09:49:12]   [all_k2] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 0 open | 0 closed, WR -
+[2026-11-20 10:03:26] === M15 tick | 19 coins | last closed bar 2026-11-20 09:45:00 UTC ===
+[2026-11-20 10:03:26]   BTC regime: BEAR -> shorts only (close 61580)
+[2026-11-20 10:03:26]   [big_k2] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 0 open | 0 closed, WR -
+[2026-11-20 10:03:26]   [big_3leg] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 0 open | 0 closed, WR -
+[2026-11-20 10:03:26]   [all_k2] realized $10000.00 (+0.00%) | mark-to-market $10000.00 (+0.00%) | 0 open | 0 closed, WR -
