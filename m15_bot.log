@@ -81,3 +81,13 @@
 [2026-11-21 05:17:58]   [big_k2] realized $10000.00 (+0.00%) | mark-to-market $10340.49 (+3.40%) | 9 open | 0 closed, WR -
 [2026-11-21 05:17:58]   [big_3leg] realized $10000.00 (+0.00%) | mark-to-market $10279.96 (+2.80%) | 27 open | 0 closed, WR -
 [2026-11-21 05:17:58]   [all_k2] realized $10000.00 (+0.00%) | mark-to-market $10753.43 (+7.53%) | 19 open | 0 closed, WR -
+[2026-11-21 13:37:48] === M15 tick | 19 coins | last closed bar 2026-11-21 13:15:00 UTC ===
+[2026-11-21 13:37:48]   BTC regime: BEAR -> shorts only (close 59519)
+[2026-11-21 13:37:48]   [big_k2] EXIT  BTC   k=2.0 SHORT @ 57310.783700  +1.58R  PnL   +55.36  equity  10055.36  (WR 1/1)  (2026-11-21 06:45:00)
+[2026-11-21 13:37:48]   [big_k2] realized $10055.36 (+0.55%) | mark-to-market $10051.24 (+0.51%) | 8 open | 1 closed, WR 100%
+[2026-11-21 13:37:48]   [big_3leg] EXIT  BTC   k=2.0 SHORT @ 57310.783700  +1.58R  PnL   +18.45  equity  10018.45  (WR 1/1)  (2026-11-21 06:45:00)
+[2026-11-21 13:37:48]   [big_3leg] EXIT  BTC   k=2.5 SHORT @ 57859.224325  +1.07R  PnL   +12.43  equity  10030.88  (WR 2/2)  (2026-11-21 06:45:00)
+[2026-11-21 13:37:48]   [big_3leg] realized $10030.88 (+0.31%) | mark-to-market $10032.22 (+0.32%) | 25 open | 2 closed, WR 100%
+[2026-11-21 13:37:48]   [all_k2] EXIT  SHIB  k=2.0 SHORT @     0.000004  +1.10R  PnL   +38.33  equity  10038.33  (WR 1/1)  (2026-11-21 06:45:00)
+[2026-11-21 13:37:48]   [all_k2] EXIT  BTC   k=2.0 SHORT @ 57310.783700  +1.58R  PnL   +55.36  equity  10093.69  (WR 2/2)  (2026-11-21 06:45:00)
+[2026-11-21 13:37:48]   [all_k2] realized $10093.69 (+0.94%) | mark-to-market $10166.39 (+1.66%) | 17 open | 2 closed, WR 100%
