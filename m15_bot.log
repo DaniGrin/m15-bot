@@ -76,3 +76,8 @@
 [2026-11-20 23:58:42]   [all_k2] ENTER SOL   k=2.0 SHORT @    67.330000  R   3.996275  stop    71.326275  (2026-11-20 20:45:00)
 [2026-11-20 23:58:42]   [all_k2] ENTER XRP   k=2.0 SHORT @     0.882800  R   0.052344  stop     0.935144  (2026-11-20 20:45:00)
 [2026-11-20 23:58:42]   [all_k2] realized $10000.00 (+0.00%) | mark-to-market $10095.30 (+0.95%) | 19 open | 0 closed, WR -
+[2026-11-21 05:17:58] === M15 tick | 19 coins | last closed bar 2026-11-21 05:00:00 UTC ===
+[2026-11-21 05:17:58]   BTC regime: BEAR -> shorts only (close 56244)
+[2026-11-21 05:17:58]   [big_k2] realized $10000.00 (+0.00%) | mark-to-market $10340.49 (+3.40%) | 9 open | 0 closed, WR -
+[2026-11-21 05:17:58]   [big_3leg] realized $10000.00 (+0.00%) | mark-to-market $10279.96 (+2.80%) | 27 open | 0 closed, WR -
+[2026-11-21 05:17:58]   [all_k2] realized $10000.00 (+0.00%) | mark-to-market $10753.43 (+7.53%) | 19 open | 0 closed, WR -
