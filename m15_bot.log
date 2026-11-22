@@ -99,3 +99,8 @@
 [2026-11-21 20:15:40]   [big_3leg] realized $10018.94 (+0.19%) | mark-to-market $9977.37 (-0.23%) | 24 open | 3 closed, WR 67%
 [2026-11-21 20:15:40]   [all_k2] EXIT  XRP   k=2.0 SHORT @     0.935331  -1.02R  PnL   -35.83  equity  10057.86  (WR 2/3)  (2026-11-21 17:15:00)
 [2026-11-21 20:15:40]   [all_k2] realized $10057.86 (+0.58%) | mark-to-market $10072.78 (+0.73%) | 16 open | 3 closed, WR 67%
+[2026-11-22 00:21:50] === M15 tick | 19 coins | last closed bar 2026-11-22 00:00:00 UTC ===
+[2026-11-22 00:21:50]   BTC regime: BEAR -> shorts only (close 60188)
+[2026-11-22 00:21:50]   [big_k2] realized $10019.53 (+0.20%) | mark-to-market $10004.62 (+0.05%) | 7 open | 2 closed, WR 50%
+[2026-11-22 00:21:50]   [big_3leg] realized $10018.94 (+0.19%) | mark-to-market $9993.02 (-0.07%) | 24 open | 3 closed, WR 67%
+[2026-11-22 00:21:50]   [all_k2] realized $10057.86 (+0.58%) | mark-to-market $10096.84 (+0.97%) | 16 open | 3 closed, WR 67%
