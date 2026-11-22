@@ -118,3 +118,8 @@
 [2026-11-22 15:15:34]   [all_k2] EXIT  LINK  k=2.0 SHORT @     8.895846  -1.03R  PnL   -36.01  equity  10021.86  (WR 2/4)  (2026-11-22 12:15:00)
 [2026-11-22 15:15:34]   [all_k2] EXIT  NEAR  k=2.0 SHORT @     3.049039  -1.02R  PnL   -35.56  equity   9986.29  (WR 2/5)  (2026-11-22 14:30:00)
 [2026-11-22 15:15:34]   [all_k2] realized $9986.29 (-0.14%) | mark-to-market $9980.38 (-0.20%) | 14 open | 5 closed, WR 40%
+[2026-11-22 21:04:50] === M15 tick | 19 coins | last closed bar 2026-11-22 20:45:00 UTC ===
+[2026-11-22 21:04:50]   BTC regime: BEAR -> shorts only (close 60822)
+[2026-11-22 21:04:51]   [big_k2] realized $9983.52 (-0.16%) | mark-to-market $9944.31 (-0.56%) | 6 open | 3 closed, WR 33%
+[2026-11-22 21:04:51]   [big_3leg] realized $10006.94 (+0.07%) | mark-to-market $9947.81 (-0.52%) | 23 open | 4 closed, WR 50%
+[2026-11-22 21:04:51]   [all_k2] realized $9986.29 (-0.14%) | mark-to-market $9968.93 (-0.31%) | 14 open | 5 closed, WR 40%
