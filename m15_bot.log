@@ -128,3 +128,13 @@
 [2026-11-23 01:38:48]   [big_k2] realized $9983.52 (-0.16%) | mark-to-market $9960.85 (-0.39%) | 6 open | 3 closed, WR 33%
 [2026-11-23 01:38:48]   [big_3leg] realized $10006.94 (+0.07%) | mark-to-market $9963.01 (-0.37%) | 23 open | 4 closed, WR 50%
 [2026-11-23 01:38:48]   [all_k2] realized $9986.29 (-0.14%) | mark-to-market $10005.32 (+0.05%) | 14 open | 5 closed, WR 40%
+[2026-11-23 09:46:20] === M15 tick | 19 coins | last closed bar 2026-11-23 09:30:00 UTC ===
+[2026-11-23 09:46:20]   BTC regime: BEAR -> shorts only (close 61413)
+[2026-11-23 09:46:20]   [big_k2] EXIT  SOL   k=2.0 SHORT @    71.340541  -1.02R  PnL   -35.83  equity   9947.69  (WR 1/4)  (2026-11-23 03:15:00)
+[2026-11-23 09:46:20]   [big_k2] realized $9947.69 (-0.52%) | mark-to-market $9902.84 (-0.97%) | 5 open | 4 closed, WR 25%
+[2026-11-23 09:46:20]   [big_3leg] EXIT  SOL   k=2.0 SHORT @    71.340541  -1.02R  PnL   -11.94  equity   9994.99  (WR 2/5)  (2026-11-23 03:15:00)
+[2026-11-23 09:46:20]   [big_3leg] EXIT  SOL   k=2.5 SHORT @    72.339809  -1.02R  PnL   -11.89  equity   9983.10  (WR 2/6)  (2026-11-23 08:00:00)
+[2026-11-23 09:46:20]   [big_3leg] realized $9983.10 (-0.17%) | mark-to-market $9899.20 (-1.01%) | 21 open | 6 closed, WR 33%
+[2026-11-23 09:46:20]   [all_k2] EXIT  ETC   k=2.0 SHORT @     5.778305  -1.03R  PnL   -36.15  equity   9950.14  (WR 2/6)  (2026-11-23 03:15:00)
+[2026-11-23 09:46:20]   [all_k2] EXIT  SOL   k=2.0 SHORT @    71.340541  -1.02R  PnL   -35.83  equity   9914.31  (WR 2/7)  (2026-11-23 03:15:00)
+[2026-11-23 09:46:20]   [all_k2] realized $9914.31 (-0.86%) | mark-to-market $9860.64 (-1.39%) | 12 open | 7 closed, WR 29%
