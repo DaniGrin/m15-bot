@@ -212,3 +212,8 @@
 [2026-11-26 02:22:26]   [big_3leg] realized $9732.47 (-2.68%) | mark-to-market $9732.47 (-2.68%) | 0 open | 27 closed, WR 7%
 [2026-11-26 02:22:26]   [all_k2] EXIT  AAVE  k=2.0 SHORT @    95.789422  -1.03R  PnL   -34.17  equity   9484.33  (WR 2/19)  (2026-11-25 19:15:00)
 [2026-11-26 02:22:26]   [all_k2] realized $9484.33 (-5.16%) | mark-to-market $9482.40 (-5.18%) | 1 open | 19 closed, WR 11%
+[2026-11-26 11:11:36] === M15 tick | 19 coins | last closed bar 2026-11-26 10:45:00 UTC ===
+[2026-11-26 11:11:36]   BTC regime: BEAR -> shorts only (close 60438)
+[2026-11-26 11:11:36]   [big_k2] realized $9767.53 (-2.32%) | mark-to-market $9767.53 (-2.32%) | 0 open | 9 closed, WR 11%
+[2026-11-26 11:11:36]   [big_3leg] realized $9732.47 (-2.68%) | mark-to-market $9732.47 (-2.68%) | 0 open | 27 closed, WR 7%
+[2026-11-26 11:11:36]   [all_k2] realized $9484.33 (-5.16%) | mark-to-market $9487.89 (-5.12%) | 1 open | 19 closed, WR 11%
