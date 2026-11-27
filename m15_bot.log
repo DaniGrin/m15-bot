@@ -232,3 +232,8 @@
 [2026-11-27 11:31:18]   [big_k2] realized $9767.53 (-2.32%) | mark-to-market $9767.53 (-2.32%) | 0 open | 9 closed, WR 11%
 [2026-11-27 11:31:18]   [big_3leg] realized $9732.47 (-2.68%) | mark-to-market $9732.47 (-2.68%) | 0 open | 27 closed, WR 7%
 [2026-11-27 11:31:18]   [all_k2] realized $9484.33 (-5.16%) | mark-to-market $9487.98 (-5.12%) | 1 open | 19 closed, WR 11%
+[2026-11-27 20:18:16] === M15 tick | 19 coins | last closed bar 2026-11-27 20:00:00 UTC ===
+[2026-11-27 20:18:16]   BTC regime: BEAR -> shorts only (close 59707)
+[2026-11-27 20:18:16]   [big_k2] realized $9767.53 (-2.32%) | mark-to-market $9767.53 (-2.32%) | 0 open | 9 closed, WR 11%
+[2026-11-27 20:18:16]   [big_3leg] realized $9732.47 (-2.68%) | mark-to-market $9732.47 (-2.68%) | 0 open | 27 closed, WR 7%
+[2026-11-27 20:18:16]   [all_k2] realized $9484.33 (-5.16%) | mark-to-market $9500.98 (-4.99%) | 1 open | 19 closed, WR 11%
